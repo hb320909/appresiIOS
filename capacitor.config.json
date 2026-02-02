@@ -1,5 +1,6 @@
 {
-  "appId": "com.resi.portalresi",
-  "appName": "portalresi",
-  "webDir": "dist"
+  "appId": "com.resi.residencia2",
+  "appName": "residencip",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
